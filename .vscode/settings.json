@@ -1,0 +1,15 @@
+{
+  "marscode.chatLanguage": "cn",
+  "marscode.codeCompletionPro": {
+    "enableCodeCompletionPro": false
+  },
+  "marscode.enableInlineCommand": false,
+  "cSpell.words": [
+    "cartlist",
+    "popconfirm",
+    "queren",
+    "queren2",
+    "shanchu",
+    "topnav"
+  ]
+}
