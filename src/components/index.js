@@ -1,4 +1,4 @@
-// 把components下的所有组件通过插件的方式进行全局化注册
+// 把components下的所有组件通过插件的方式进行全局化 注册
 import ImageView from '@/components/ImageView/index.vue'
 import Sku from '@/components/XtxSku/index.vue'
 
