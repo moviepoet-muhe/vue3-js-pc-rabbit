@@ -44,7 +44,7 @@ const routes = [
         component: () => import('@/views/Member/index.vue'),
         children: [
           {
-            path: 'user',
+            path: '',
             component: () => import('@/views/Member/components/UserInfo.vue')
           },
           {
