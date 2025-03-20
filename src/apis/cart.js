@@ -1,7 +1,7 @@
 // 用户登录后 封装请求购物车接口
 import service from "@/utils/request";
 
-// 加入购物车
+// 加入购物车车
 export const insertCartAPI = ({ skuId, count }) => service({
   url: '/member/cart',
   method: 'POST',
