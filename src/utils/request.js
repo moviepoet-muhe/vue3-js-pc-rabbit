@@ -6,7 +6,7 @@ import { useUserStore } from '@/stores/userStore'
 import router from '@/router'
 const service = axios.create({
   baseURL: 'https://pcapi-xiaotuxian-front-devtest.itheima.net',
-  timeout: 5000
+  timeout: 20000
 })
 
 // axios请求拦截器
