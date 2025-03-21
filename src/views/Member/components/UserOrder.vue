@@ -21,7 +21,7 @@ const total = ref(0)
 const params = ref({
   orderState: 0,
   page: 1,
-  pageSize: 2
+  pageSize: 4
 })
 const getOrderList = async () => {
   const res = await getUserOrder(params.value)
