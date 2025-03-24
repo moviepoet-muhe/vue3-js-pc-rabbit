@@ -114,5 +114,6 @@ export const useCartStore = defineStore('cart', () => {
     getNewCartList,
   }
 }, {
+  // 开启数据持久化
   persist: true,
 })
