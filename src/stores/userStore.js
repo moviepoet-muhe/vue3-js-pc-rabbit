@@ -40,5 +40,6 @@ export const useUserStore = defineStore('user', () => {
 
   }
 }, {
+  // 开启数据持久化
   persist: true,
 })
