@@ -8,7 +8,6 @@ export const insertCartAPI = ({ skuId, count }) => service({
   data: {
     skuId,
     count
-
   }
 })
 
